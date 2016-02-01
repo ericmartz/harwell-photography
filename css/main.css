@@ -62,6 +62,10 @@ a:hover {
   padding: 0 .5em;
 }
 
+.max-height-500px {
+  max-height: 500px;
+}
+
 /*
  * Contact Form
  */
