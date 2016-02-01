@@ -1,2 +1,6 @@
+# Ignoring images
 /img
 *.jpg
+
+# Ignoring Node Modules for Grunt
+/node_modules
