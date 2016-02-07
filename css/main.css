@@ -66,8 +66,24 @@ a:hover {
   max-height: 500px;
 }
 
-.max-height-350px {
-  max-height: 350px;
+#left-carousel-control,
+#right-carousel-control {
+  background: none;
+  background-image: none;
+  top: 15em;
+}
+
+#left-carousel-control {
+  left: 2.25em;
+}
+
+#right-carousel-control {
+  left: 4.25em;
+}
+
+.glyphicon-chevron-left,
+.glyphicon-chevron-right {
+  color: black;
 }
 
 /*
