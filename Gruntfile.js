@@ -20,6 +20,11 @@ module.exports = function(grunt) {
             quality: 100
           },{
             /* Change these */
+            height: 750,
+            suffix: '_medium_large',
+            quality: 100
+          },{
+            /* Change these */
             height: 500,
             suffix: '_medium',
             quality: 75
