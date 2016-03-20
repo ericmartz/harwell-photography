@@ -16,13 +16,8 @@ module.exports = function(grunt) {
           sizes: [{
             /* Change these */
             width: 1600,
-            suffix: '_mobile_large',
+            suffix: '_mobile',
             quality: 75
-          },{
-            /* Change these */
-            width: 1200,
-            suffix: '_mobile_medium',
-            quality: 100
           },{
             /* Change these */
             height: 1000,
@@ -30,18 +25,8 @@ module.exports = function(grunt) {
             quality: 100
           },{
             /* Change these */
-            height: 750,
-            suffix: '_medium_large',
-            quality: 100
-          },{
-            /* Change these */
             height: 500,
             suffix: '_medium',
-            quality: 75
-          },
-          {
-            width: 350,
-            suffix: '_small',
             quality: 75
           }]
         },
