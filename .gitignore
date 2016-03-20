@@ -1,4 +1,5 @@
 # Ignoring images
+/original-images
 /images
 /img
 *.jpg
